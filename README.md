@@ -4,7 +4,24 @@
 
 Bienvenido a mi rincón de código. Soy un desarrollador fullstack apasionado por crear aplicaciones que realmente importen. Me encanta transformar ideas en productos digitales funcionales y atractivos.
 
-Mi história con la programación comenzó cuando estudié el grado superior de Administración de Sistemas Informáticos en red, donde di mis primeros pasos programando en ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#), haciendo consultas en ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white), scripting en [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#), etc. A eso lo siguió mi paso por la universidad, en la que comencé a estudiar Ingeniería Informática, la cual no pude acabar, pero en la que aprendí cosas tan útiles como fundamentos de programación orientada a objetos con [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#). Luego desvié mi camino del mundo de la informática para aprender otra rama de la tecnología, el sectór industrial. Realicé el grado superior de Automatización y Robótica Industrial, en este vi poquito de programación, pero si que trastee con [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#). Desde que entré a Amazon, me sorprendía que muchas de las cosas que se realizaban allí no estuvieran automatizadas, por lo que de manera autodidacta me puse a hacer programitas que hicieran mis tareas rutinarias con ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white). Eso me recordó lo que me divertía programar, así que me matriculé en en grado superior de Desarrollo de Aplicaciones Multiplataforma en IFP, donde aprendí muchisimos conceptos nuevos y en la que volví a ver [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#). También tocamos desarrollo movil y de videojuegos, y desde entonces veo los juegos desde otra perspectiva. Acabando el módulo realicé mis prácticas en Pixelcom, una empresa pequeñita que entre otras cosas había creado un programa de gestión de kartings de carreras. En esta aprendí mucho acerca del uso de las RestAPIs, trabajé con [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#), y realicé por completo una copia de su app movil de gestión de kartings con [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) 
+
+### 🚀  Mi Historia con la Programación
+
+Mi viaje comenzó durante el Grado Superior de Administración de Sistemas Informáticos en Red, donde programé en HTML5, CSS3 y XML, realicé consultas SQL y automaticé tareas con PowerShell.
+
+Continué en la Universidad estudiando Ingeniería Informática, donde adquirí sólidos fundamentos de programación orientada a objetos con Java. Aunque no completé el grado, estos conocimientos fueron fundamentales para mi desarrollo profesional.
+
+Buscando ampliar horizontes, me especialicé en el Grado Superior de Automatización y Robótica Industrial, explorando el sector de la tecnología industrial y programando en C++.
+
+Durante mi experiencia en Amazon, identifiqué múltiples procesos manuales susceptibles de automatización. Por iniciativa propia, desarrollé herramientas en Python que optimizaron tareas rutinarias, redescubriendo mi verdadera pasión por el desarrollo de software.
+
+Esta revelación me impulsó a cursar el Grado Superior de Desarrollo de Aplicaciones Multiplataforma en IFP, donde profundicé en Java, arquitecturas modernas, desarrollo móvil y de videojuegos, cambiando para siempre mi perspectiva sobre la industria del gaming.
+
+Completé mi formación con prácticas en Pixelcom, donde trabajé en su sistema de gestión de kartings de carreras. Allí dominé el uso de REST APIs con Postman y desarrollé desde cero una aplicación móvil completa en React Native, replicando su sistema de gestión.
+
+Actualmente estoy ampliando mis capacidades mediante un Bootcamp de Desarrollo Full Stack, donde profundizo en el ecosistema moderno de desarrollo web: HTML5, CSS3, JavaScript, Bootstrap y React en el frontend; Python y creación/consumo de APIs REST en el backend; bases de datos relacionales, autenticación con JWT, y pruebas unitarias con JUnit para garantizar código robusto y mantenible.
+
+Cada proyecto refuerza mi convicción: el desarrollo de software es donde quiero construir mi carrera.
 
 ---
 
