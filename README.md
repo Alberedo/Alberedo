@@ -1,8 +1,9 @@
 # 👋 ¡Hola! Soy Alberto
 
-### 💻 Fullstack Developer | 📱 Mobile Enthusiast | 🚀 Problem Solver
+Actualmente trabajo como Técnico RME en Amazon (certificado CAT II en ultrasonidos), pero mi verdadera pasión es el desarrollo de software.
+Soy técnico Superior en Desarrollo de Aplicaciones Multiplataforma y estoy realizando un Bootcamp Full Stack para profesionalizarme en este campo. Mi experiencia en mantenimiento industrial y automatización me ha enseñado a pensar en sistemas, eficiencia y resolución de problemas complejos, habilidades que ahora aplico al código.
 
-Bienvenido a mi rincón de código. Soy un desarrollador fullstack apasionado por crear aplicaciones que realmente importen. Me encanta transformar ideas en productos digitales funcionales y atractivos.
+🎯 Objetivo: Incorporarme a un equipo de desarrollo como Full Stack Developer o Backend Developer, donde pueda combinar mi mentalidad técnica con mis capacidades de programación para crear soluciones robustas y escalables.
 
 
 ### 🚀  Mi Historia con la Programación
