@@ -72,15 +72,7 @@ Cada proyecto refuerza mi convicción: el desarrollo de software es donde quiero
 Desarrollé varias aplicaciones móviles usando **Flutter** y **React Native**, enfocándome en UI/UX intuitivas y rendimiento óptimo.
 
 ### 🌐 Web Projects
-Creé sitios web interactivos y responsivos con **HTML**, **CSS** y **JavaScript**, siempre priorizando la experiencia del usuario.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberedo&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberedo&layout=compact&theme=radical&hide_border=true)
+Creé sitios web interactivos y responsivos con **HTML**, **CSS**, **JavaScript** y **bootstrap**, siempre priorizando la experiencia del usuario.
 
 ---
 
